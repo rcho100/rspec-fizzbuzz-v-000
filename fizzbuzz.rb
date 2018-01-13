@@ -1,4 +1,4 @@
-int =  gets.strip
+int = gets.strip
 
 def fizzbuzz(int)
   if int % 3 == 0
